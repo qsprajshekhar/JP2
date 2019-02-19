@@ -17,7 +17,7 @@ public class Demo {
 	}
 	public void testw()
 	{
-		
+		System.out.println();
 	}
 
 }
