@@ -11,5 +11,9 @@ public class Demo {
 	{
 		
 	}
+	public void testq()
+	{
+		
+	}
 
 }
