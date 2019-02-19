@@ -15,5 +15,9 @@ public class Demo {
 	{
 		
 	}
+	public void testw()
+	{
+		
+	}
 
 }
